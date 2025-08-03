@@ -1,1 +1,3 @@
-# Todolist-web-app-with-vanilla-js
+# Todolist-web-app
+
+Creating this with vanilla JavaScript.
