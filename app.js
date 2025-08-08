@@ -1,6 +1,6 @@
-import { createTask } from "./modules/tasks/createTask.js";
-import { deleteTask } from "./modules/tasks/deleteTask.js";
-import { container } from "./modules/components.js";
+import { createTask } from "./components/tasks/createTask.js";
+import { deleteTask } from "./components/tasks/deleteTask.js";
+import { container } from "./components/components.js";
 
 // Make task left on HTML even after reload.
 document.addEventListener('DOMContentLoaded', function() {
